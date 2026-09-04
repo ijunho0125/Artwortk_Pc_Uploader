@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+input_sprites/*
+!input_sprites/.gitkeep
+uploads/*
+!uploads/.gitkeep
